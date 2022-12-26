@@ -1,0 +1,21 @@
+1. 강의계획서 데이터 (pdf)
+사용자가 첨부했다는 가정하에 진행했지만, 프로젝트 과정에서 사용한 3개의 강의계획서 첨부합니다.
+문화테크놀로지2.pdf
+데베개.pdf
+가상현실.pdf
+
+2. 강의평가 데이터 (csv)
+감성분석을 진행할 때 사용했던 5개의 csv파일 첨부합니다. (직접 크롤링 한 파일)
+AI기초와활용_김재광.csv
+컴퓨팅사고와SW코딩_지정은.csv
+컴퓨터구조및시스템_윤인식.csv
+자료구조및알고리즘개론_정하림.csv
+언어공학과문화콘텐츠_구영은.csv
+
+감성분석을 진행할 때 총 10개의 csv파일을 사용하였으나, 
+5개만이 직접 크롤링 한 파일로 나머지 5개 파일은 아래 링크와 같습니다.
+1) https://raw.githubusercontent.com/guymoon/evrytime-emotion-prediction/master/data/%EA%B0%95%EB%8C%80%EC%97%90%ED%83%80.csv
+2)https://raw.githubusercontent.com/guymoon/evrytime-emotion-prediction/master/data/%EC%88%AD%EC%8B%A4%EC%97%90%ED%83%80.csv
+3)https://raw.githubusercontent.com/guymoon/evrytime-emotion-prediction/master/data/%EA%B1%B4%EB%8C%80%EC%97%90%ED%83%80.csv
+4)https://raw.githubusercontent.com/guymoon/evrytime-emotion-prediction/master/data/%ED%95%9C%EC%84%B1%EC%97%90%ED%83%80.csv
+5)https://raw.githubusercontent.com/guymoon/evrytime-emotion-prediction/master/data/%EA%B4%91%EC%9A%B4%EC%97%90%ED%83%80.csv
